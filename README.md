@@ -1,6 +1,6 @@
 # MathiPy
 
-Coming Soon
+Coming soon
 
 ## Overview
 **MathifyPy** will be a Python-based API that provides a collection of mathematical algorithms designed to simplify complex calculations and problem-solving. The project aims to make mathematical concepts more accessible by offering clear, understandable explanations and visualizations for each algorithm. These algorithms can be easily integrated into other projects, making them a valuable tool for developers working with mathematical computations.
